@@ -1,0 +1,174 @@
+Initialize engine version: 4.6.2f1 (bd99309c2ad7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro 2000 (ID=0xdd8)
+    Vendor:   NVIDIA
+    VRAM:     978 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\videogames\Desktop\Claudio\ComboEser\gh_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\videogames\Desktop\Claudio\ComboEser\gh_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\videogames\Desktop\Claudio\ComboEser\gh_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\videogames\Desktop\Claudio\ComboEser\gh_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\videogames\Desktop\Claudio\ComboEser\gh_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\videogames\Desktop\Claudio\ComboEser\gh_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\videogames\Desktop\Claudio\ComboEser\gh_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\videogames\Desktop\Claudio\ComboEser\gh_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\videogames\Desktop\Claudio\ComboEser\gh_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\videogames\Desktop\Claudio\ComboEser\gh_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\videogames\Desktop\Claudio\ComboEser\gh_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\videogames\Desktop\Claudio\ComboEser\gh_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.070 seconds
+desktop: 1920x1200 59Hz; virtual: 1920x1200 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\videogames\Desktop\Claudio\ComboEser\gh_Data\Managed\System.Core.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+Platform assembly: C:\Users\videogames\Desktop\Claudio\ComboEser\gh_Data\Managed\System.dll (this message is harmless)
+totale risoluzioni video disponibili:20
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Kender.uGUI.ResCtrlbyCB:Start() (at C:\Users\videogames\Desktop\Claudio\ComboEser\Assets\ComboBox\ResCtrlbyCB.cs:38)
+ 
+(Filename: C:/Users/videogames/Desktop/Claudio/ComboEser/Assets/ComboBox/ResCtrlbyCB.cs Line: 38)
+
+640x480
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Kender.uGUI.ResCtrlbyCB:Start() (at C:\Users\videogames\Desktop\Claudio\ComboEser\Assets\ComboBox\ResCtrlbyCB.cs:50)
+ 
+(Filename: C:/Users/videogames/Desktop/Claudio/ComboEser/Assets/ComboBox/ResCtrlbyCB.cs Line: 50)
+
+720x480
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Kender.uGUI.ResCtrlbyCB:Start() (at C:\Users\videogames\Desktop\Claudio\ComboEser\Assets\ComboBox\ResCtrlbyCB.cs:50)
+ 
+(Filename: C:/Users/videogames/Desktop/Claudio/ComboEser/Assets/ComboBox/ResCtrlbyCB.cs Line: 50)
+
+720x576
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Kender.uGUI.ResCtrlbyCB:Start() (at C:\Users\videogames\Desktop\Claudio\ComboEser\Assets\ComboBox\ResCtrlbyCB.cs:50)
+ 
+(Filename: C:/Users/videogames/Desktop/Claudio/ComboEser/Assets/ComboBox/ResCtrlbyCB.cs Line: 50)
+
+800x600
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Kender.uGUI.ResCtrlbyCB:Start() (at C:\Users\videogames\Desktop\Claudio\ComboEser\Assets\ComboBox\ResCtrlbyCB.cs:50)
+ 
+(Filename: C:/Users/videogames/Desktop/Claudio/ComboEser/Assets/ComboBox/ResCtrlbyCB.cs Line: 50)
+
+1024x768
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Kender.uGUI.ResCtrlbyCB:Start() (at C:\Users\videogames\Desktop\Claudio\ComboEser\Assets\ComboBox\ResCtrlbyCB.cs:50)
+ 
+(Filename: C:/Users/videogames/Desktop/Claudio/ComboEser/Assets/ComboBox/ResCtrlbyCB.cs Line: 50)
+
+1152x864
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Kender.uGUI.ResCtrlbyCB:Start() (at C:\Users\videogames\Desktop\Claudio\ComboEser\Assets\ComboBox\ResCtrlbyCB.cs:50)
+ 
+(Filename: C:/Users/videogames/Desktop/Claudio/ComboEser/Assets/ComboBox/ResCtrlbyCB.cs Line: 50)
+
+1280x720
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Kender.uGUI.ResCtrlbyCB:Start() (at C:\Users\videogames\Desktop\Claudio\ComboEser\Assets\ComboBox\ResCtrlbyCB.cs:50)
+ 
+(Filename: C:/Users/videogames/Desktop/Claudio/ComboEser/Assets/ComboBox/ResCtrlbyCB.cs Line: 50)
+
+1280x768
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Kender.uGUI.ResCtrlbyCB:Start() (at C:\Users\videogames\Desktop\Claudio\ComboEser\Assets\ComboBox\ResCtrlbyCB.cs:50)
+ 
+(Filename: C:/Users/videogames/Desktop/Claudio/ComboEser/Assets/ComboBox/ResCtrlbyCB.cs Line: 50)
+
+1280x800
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Kender.uGUI.ResCtrlbyCB:Start() (at C:\Users\videogames\Desktop\Claudio\ComboEser\Assets\ComboBox\ResCtrlbyCB.cs:50)
+ 
+(Filename: C:/Users/videogames/Desktop/Claudio/ComboEser/Assets/ComboBox/ResCtrlbyCB.cs Line: 50)
+
+1280x960
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Kender.uGUI.ResCtrlbyCB:Start() (at C:\Users\videogames\Desktop\Claudio\ComboEser\Assets\ComboBox\ResCtrlbyCB.cs:50)
+ 
+(Filename: C:/Users/videogames/Desktop/Claudio/ComboEser/Assets/ComboBox/ResCtrlbyCB.cs Line: 50)
+
+1280x1024
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Kender.uGUI.ResCtrlbyCB:Start() (at C:\Users\videogames\Desktop\Claudio\ComboEser\Assets\ComboBox\ResCtrlbyCB.cs:50)
+ 
+(Filename: C:/Users/videogames/Desktop/Claudio/ComboEser/Assets/ComboBox/ResCtrlbyCB.cs Line: 50)
+
+1360x768
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Kender.uGUI.ResCtrlbyCB:Start() (at C:\Users\videogames\Desktop\Claudio\ComboEser\Assets\ComboBox\ResCtrlbyCB.cs:50)
+ 
+(Filename: C:/Users/videogames/Desktop/Claudio/ComboEser/Assets/ComboBox/ResCtrlbyCB.cs Line: 50)
+
+1366x768
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Kender.uGUI.ResCtrlbyCB:Start() (at C:\Users\videogames\Desktop\Claudio\ComboEser\Assets\ComboBox\ResCtrlbyCB.cs:50)
+ 
+(Filename: C:/Users/videogames/Desktop/Claudio/ComboEser/Assets/ComboBox/ResCtrlbyCB.cs Line: 50)
+
+1440x900
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Kender.uGUI.ResCtrlbyCB:Start() (at C:\Users\videogames\Desktop\Claudio\ComboEser\Assets\ComboBox\ResCtrlbyCB.cs:50)
+ 
+(Filename: C:/Users/videogames/Desktop/Claudio/ComboEser/Assets/ComboBox/ResCtrlbyCB.cs Line: 50)
+
+1600x900
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Kender.uGUI.ResCtrlbyCB:Start() (at C:\Users\videogames\Desktop\Claudio\ComboEser\Assets\ComboBox\ResCtrlbyCB.cs:50)
+ 
+(Filename: C:/Users/videogames/Desktop/Claudio/ComboEser/Assets/ComboBox/ResCtrlbyCB.cs Line: 50)
+
+1600x1024
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Kender.uGUI.ResCtrlbyCB:Start() (at C:\Users\videogames\Desktop\Claudio\ComboEser\Assets\ComboBox\ResCtrlbyCB.cs:50)
+ 
+(Filename: C:/Users/videogames/Desktop/Claudio/ComboEser/Assets/ComboBox/ResCtrlbyCB.cs Line: 50)
+
+1600x1200
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Kender.uGUI.ResCtrlbyCB:Start() (at C:\Users\videogames\Desktop\Claudio\ComboEser\Assets\ComboBox\ResCtrlbyCB.cs:50)
+ 
+(Filename: C:/Users/videogames/Desktop/Claudio/ComboEser/Assets/ComboBox/ResCtrlbyCB.cs Line: 50)
+
+1680x1050
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Kender.uGUI.ResCtrlbyCB:Start() (at C:\Users\videogames\Desktop\Claudio\ComboEser\Assets\ComboBox\ResCtrlbyCB.cs:50)
+ 
+(Filename: C:/Users/videogames/Desktop/Claudio/ComboEser/Assets/ComboBox/ResCtrlbyCB.cs Line: 50)
+
+1920x1080
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Kender.uGUI.ResCtrlbyCB:Start() (at C:\Users\videogames\Desktop\Claudio\ComboEser\Assets\ComboBox\ResCtrlbyCB.cs:50)
+ 
+(Filename: C:/Users/videogames/Desktop/Claudio/ComboEser/Assets/ComboBox/ResCtrlbyCB.cs Line: 50)
+
+1920x1200
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Kender.uGUI.ResCtrlbyCB:Start() (at C:\Users\videogames\Desktop\Claudio\ComboEser\Assets\ComboBox\ResCtrlbyCB.cs:50)
+ 
+(Filename: C:/Users/videogames/Desktop/Claudio/ComboEser/Assets/ComboBox/ResCtrlbyCB.cs Line: 50)
+
